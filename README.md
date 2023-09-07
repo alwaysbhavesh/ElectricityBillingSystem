@@ -15,6 +15,14 @@ Welcome to the **Electricity Billing System** – a sophisticated software appli
 **4. Tax Management:** Seamlessly manage taxes with our integrated features. Easily configure, track, and update tax rates as needed to comply with regulations.
 
 **5. Efficiency and Savings:** By automating billing procedures and reducing paperwork, our system not only saves time but also valuable resources. Enhance operational efficiency and reduce overhead costs.
+## Tech Stack
+
+The **Electricity Billing System** is built using the following technologies and tools:
+
+- **Frontend:** JAVA AWT and JAVA SWING
+- **Database:** MySQL
+- **Payment Processing:** Paytm API
+- **Version Control:** Git and GitHub
 
 ## System Requirements
 
